@@ -1,4 +1,4 @@
-module go.fd.io/govpp
+module github.com/herugen/govpp
 
 go 1.18
 
